@@ -6,7 +6,7 @@ import weatherImage from '../assets/weather.jfif';
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-warning py-2  w-100" style={{ height: '30vh' }}>
+    <section id="projects" className="bg-white py-1  w-500" style={{ height: '60vh' }}>
       <div className="container">
         <h2 className=" text-center mb-3">Projects</h2>
         <div className="row">
